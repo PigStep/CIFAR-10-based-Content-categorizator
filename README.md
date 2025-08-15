@@ -1,4 +1,4 @@
-![MlFlow](https://img.shields.io/badge/Mlflow-UI-blue?style=flat-square&logoColor=blue&logoSize=auto&link=https%3A%2F%2Fdagshub.com%2FPigStep%2FCIFAR-10-based-Content-categorizator.mlflow%2F)
+[![Static Badge](https://img.shields.io/badge/Mlflow-UI-blue?style=flat-square&logoColor=blue&link=https%3A%2F%2Fdagshub.com%2FPigStep%2FCIFAR-10-based-Content-categorizator.mlflow%2F) ](https://dagshub.com/PigStep/CIFAR-10-based-Content-categorizator.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D)
 
 [![DagsHub Experiments](https://img.shields.io/badge/DagsHub-Experiments-333333?style=for-the-badge&logo=dagshub&logoColor=white)](https://dagshub.com/PigStep/CIFAR-10-based-Content-categorizator/experiments)
 
